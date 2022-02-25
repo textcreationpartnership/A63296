@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the behaviour and confession of the nine criminals that were executed at Tyburn on Friday the 31st of May 1689 whose names are as follows, viz. Charles Hughes, Jacob Turner, William Bird, Charles Lee, Edward Sibley, William Miller, Richard Bullen, Thomas Watkins, James Felton.</title>
+            <author>Smith, Samuel, 1620-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63296</idno>
+            <idno type="STC">Wing T2343A</idno>
+            <idno type="STC">ESTC R25668</idno>
+            <idno type="EEBO-CITATION">09057719</idno>
+            <idno type="OCLC">ocm 09057719</idno>
+            <idno type="VID">42353</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63296)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42353)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1296:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the behaviour and confession of the nine criminals that were executed at Tyburn on Friday the 31st of May 1689 whose names are as follows, viz. Charles Hughes, Jacob Turner, William Bird, Charles Lee, Edward Sibley, William Miller, Richard Bullen, Thomas Watkins, James Felton.</title>
+                  <author>Smith, Samuel, 1620-1698.</author>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Samuel Smith, Ordinary.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executions and executioners --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:42353:1"/>
+            <head>A True AC<gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>NT of the Behaviour and Confeſſion Of the Nine Criminals that were Executed at TYBURN, On <hi>Friday</hi> the 31ſt of <hi>May</hi> 1689. whoſe Names are as follow, <hi>viz.</hi>
+            </head>
+            <head type="sub">Charles Hughes, Jacob Turner, William Bird, Charles Lee, Edward Sibley, William Miller, Richard Bullen, Thomas Watkins, James Felton.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>ON the Lord's Day the <hi>Ordinary</hi> read Prayers, and preacht twice to the condemned Priſoners. In the Forenoon the Text was the 8th <hi>Verſe</hi> of the 5th <hi>Chapter</hi> of St. <hi>Matthew</hi>'s Goſpel, <hi>Bleſſed are the pure in heart, for they ſhall ſee God.</hi> There is no Principle more ſixt in a reaſonable Creature, than a reſtleſs deſire after Happineſs. Yet Men miſtake in nothing more, than in a fond perſuit of ſuch falſe meaſures and means as reach not true ſubſtantial Bleſſedneſs. Therefore, to unde<g ref="char:EOLhyphen"/>ceive miſerable Pretenders to Happineſs, while they wan<g ref="char:EOLhyphen"/>der in a painful Labyrinth of unſucceſsful means to at<g ref="char:EOLhyphen"/>tain it, our Saviour in theſe eight Beatitudes directs to ſuch proper and genuin diſpoſitions, as will certainly tend to, and inſtate the Soul in real Felicity. Heart-purity is a Frame not only bleſſed at preſent, but leads to future Happineſs, in the perfect knowledge of God in Heaven, joined with an exact Aſſimilation to him, and a delightful enjoyment of him to all Eternity.</p>
+                  <p>The parts of the Text were explicated, and Evan<g ref="char:EOLhyphen"/>gelical Heart-purity ſtated as the Spring of all ſincere Obedience. Real Heart-purity is an univerſal Confor<g ref="char:EOLhyphen"/>mity of all the Souls Faculties and Affections to all the Precepts of Divine Revelation, thô croſs to carnal Rea<g ref="char:EOLhyphen"/>ſon, or ſlie Self-Intereſt. It forms clear and honourable Conceptions of God, ſuitable to his Divine Excellen<g ref="char:EOLhyphen"/>cies, ſo as to be transformed into their Divine Effects.</p>
+                  <p>Heart-purity ſtrikes at the Root of all Self-ſeeking, which confines the Noble Soul to particular low ſordid Times. It will enter into us as the Refiner's Fire. It will become every way abſolute. It will not ſuffer any Corrival with God, either in point of commanding our Obedience, or courting of our Love. It ſtrikes at all ſpeculative retired ſpiritual Filthineſs in the Heart. But a mixture of Carnality, where Hypocriſie predominates, renders all the parts of ſpiritual Religion uneaſie, yea, caſts them off as grievous. Contrarywiſe, the power of Godlineſs will make a Man live up to the heighth and dignity of his renewed Nature, and not to act de<g ref="char:EOLhyphen"/>generately, below his holy ſtate, as not being enſlaved to any Luſt or Paſſion.</p>
+                  <p>An Heart purified by Divine Truth, may aſſure it ſelf, that it is tranſlated into the glorious liberty of the Sons of God. It may view the Plot of its Salvation tran<g ref="char:EOLhyphen"/>ſacted already, in the impreſſion of a Godlike Nature.</p>
+                  <p>Here were mentioned ſome Arguments, to demon<g ref="char:EOLhyphen"/>ſtrate <hi>that the pure in heart are bleſſed;</hi> alſo the miſery of all prophane perſons, in being devoid of the Beauty of Holineſs.</p>
+                  <p>After many Motives urged, to uſe ſome Rules or Di<g ref="char:EOLhyphen"/>rections how to attack and promote Holineſs, the <hi>Ordi<g ref="char:EOLhyphen"/>nary</hi> ſpake thus to the condemned Criminals.</p>
+                  <p>
+                     <hi>O who would not ſtudy to promote Heart purity in the pre<g ref="char:EOLhyphen"/>ſent love and practice of it that they may be welcomed to the Feſtivities of heavenly Glory. Why then do we graſp after ſordid Vanities, and not take hold of Bleſſedneſs by all holy Violence?</hi>
+                  </p>
+                  <p>
+                     <hi>Examine therefore, Is there a Change in your Hearts, Thoughts, Words, Actions and Affections? Is there a mighty work of Renewing Grace on your Spirits? Try your Title to heavenly Felicity, by your univerſal, conſtant, ſincere and chearful Obedience to the Commands of Chriſt.</hi>
+                  </p>
+                  <p>
+                     <hi>O why are we dead to the love and practice of true Piety, as if Heaven were a phantaſtick Dream! Why are we as hot and eager on Sinning, as if Hell had no Fire, or it was all vaniſht into Smoke?</hi>
+                  </p>
+                  <p>
+                     <hi>O who would not ambitiouſly aſpire to get a Sight of God, who is the matchleſs Mirror of Divine Truth, and the infi<g ref="char:EOLhyphen"/>nite Beauty of all Perfection! If we hope for ſuch a Sight, why doth it not warm us with the greateſt love of Holineſs, and put us, as it were, unto a Tranſport of moſt active Zeal in a courſe of Piety?</hi>
+                  </p>
+                  <p>
+                     <hi>But why ſhould I uſe farther Arguments to allure Men to embrace their own Happineſs? Holineſs is the matter of our freeſt Choice. The Lord ſets Life and Death this day before you. Do not obſtinately hate Knowledge, nor reject the Fear of the Lord, by whoſe Smiles or Frowns men live or dye eter<g ref="char:EOLhyphen"/>nally. The very Hell of Hell, is to be given up to the curſed conſummation of wickedneſs; but the very quinteſſence of heavenly Happineſs, is to be made perfect in Holineſs, as a lively, lovely Repreſentation of the Deity, Only the pure in heart ſhall ſee and enjoy God, in whoſe preſence is Fulneſs of Joy, and at whoſe Right Hand are Rivers of the Divineſt Pleaſures to all Eternity, without any ſtint or ſociety.</hi>
+                  </p>
+                  <p>On <hi>Monday</hi> the <hi>Ordinary</hi> viſited the Condemned, and inquired <hi>what Divine Impreſſions the Author of all Grace had made on their Hearts by the foregoing Counſels and Prayers.</hi> They reply'd, <hi>That they were much awakened from their ſecurity in a ſinful courſe, that the ſight and ſenſe of their Iniquities did much afflict and trouble their minds.</hi> To which I reply'd, <hi>That clear and ſtrong Convictions in Conſcience may vaniſh in a fruitleſs ſenſe of Sin, unleſs they proceed to a thorow work of Converſion.</hi>
+                  </p>
+                  <p>To this, One more knowing than the reſt aſſented, and deſired me that I would expound in the Afternoon the 10th and 11th <hi>Verſes</hi> of the 7th <hi>Chapter</hi> of the 2d <hi>Epiſtle</hi> to the <hi>Corinthians.</hi>
+                  </p>
+                  <p>After all the Seven Signs, as inſeparable Concomitants of true Repentance, had been treated of, the Condemned ſaid, <hi>That they now underſtood the Nature of Repentance more clearly and fully than before, yet they acknowledged that they could not work ſuch, a change in their own hearts.</hi> I told them, <hi>That the New Creation was a more wonderful Effect of Gods Power, than the forthing of the viſible ſtructure of Heaven and Earth. I declared in what Reſpects.</hi>
+                  </p>
+                  <p>On <hi>Tueſday</hi> the <hi>Ordinary</hi> having prayed with the Condemned, askt them One by One, of the Employ<g ref="char:EOLhyphen"/>ment they were bred up into, and how they fell into a vicious courſe of Life?</p>
+                  <pb facs="tcp:42353:2" rendition="simple:additions"/>
+                  <list>
+                     <item>Firſt <hi>Charles Hughes,</hi> Condemned for Murdering his Wife, who was puniſht for the Fond Love of his Come<g ref="char:EOLhyphen"/>lineſs, tho they knew that he had been formerly Con<g ref="char:EOLhyphen"/>demned, as having been a Priſoner herſelf. <hi>Hughes</hi> told me, that he had very Religious Education. I replied, the greater is your Sin, as being againſt clearer Light, and for degenerating from the Counſels and Examples of pious Anceſtors. I told him, That their Virtues could not ſave him, unleſs he now repent that he walkt not in their ſteps. The <hi>Phariſees</hi> boaſted that they had <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> to their Father, but the <hi>Baptist</hi> conſuted that proud preſumption, by aſſuring them, <hi>That every Tree which did not bring forth good Fruit, ſhould be hew'n down, and caſt into the Fire.</hi> He ſaid that he was not brought up to any Employment, which expoſed him to many evil Tempta<g ref="char:EOLhyphen"/>tions. He could not deny, but that he had been refra<g ref="char:EOLhyphen"/>ctory in running from the ſtrict Government of his Fa<g ref="char:EOLhyphen"/>ther, and thereby juſtly left to fall into farther Extrava<g ref="char:EOLhyphen"/>gancie. I ſeveral times pray'd with him, before he took his Tryal, to compoſe his Mind, for he was very impa<g ref="char:EOLhyphen"/>tient under his Impriſonment, than which there cannot be a more barbarous Fact. He ſaid he was tranſported by paſſion at ſome inſolent words his Wife gave him, but wiſhes that he had endured all Reproaches patiently, ra<g ref="char:EOLhyphen"/>ther than thus to have ſhortned her Life, and his own, yet he hopes that the merits of Chriſt's Bloodſhed will pacifie God's angry Juſtice, and make his ſhameful death a means to bring him to Repentance, and ſave his Soul.</item>
+                     <item>The Second, <hi>Jacob Turner</hi> of the Pariſh of St. <hi>Botolphs Biſhopſgute,</hi> was Condemned for the Murder of his Wiſe. He was born in <hi>London,</hi> is about the Age of 44 years, was a Weaver by Trade, which he followed for ſome long ſpace of time; yet falling into decay, it bred diſ<g ref="char:EOLhyphen"/>contents betwixt him and his Wife. He ſaid that he had not any deſign to kill her, but did it in a ſudden violent paſſion, for which he is very ſorrowful; not becauſe he muſt dye, but becauſe he hath greatly ſinned againſt God, and diſhonoured his proſeſſing of Religion to which he pretended, but now queſtions the ſincerity of his heart. He was much dejected at firſt, but upon a more particular diſcourſing with him, and praying for him, he ſaid he found his heart more ſoftned and relying upon God for his mercy. He was the moſt knowing Perſon among the Condemned. He ſaid that Repentance to Salvation abhors every Act of Sin, and flies all Tem<g ref="char:EOLhyphen"/>prations and Occaſions leading to it. I askt him, How Faith and Preſumption differ. He ſaid, That true Faith doth purifie the Heart, and renew the Conſcience, as well as pacifie and be calm it, in the lively hope of God's pardoning Mercy. For, where he remits the guilt of Sin, he mortifies and ſubdues the love and power of it: So that the Sin which was moſt delightful, is rendered moſt bitter in a penitential abhorring of it. Upon ob<g ref="char:EOLhyphen"/>ſervation of his whole Behaviour, I do think that he was an Example of Repentance to the reſt of the Criminals.</item>
+                     <item>The Third, <hi>William Bird</hi> of the Pariſh of <hi>Harrow on the Hill,</hi> was Condemned for Felony and Burglary. He was born in <hi>Holland</hi> of <hi>Engliſh</hi> Parents, but would not give any account of his Converſation.</item>
+                     <item>The Fourth, <hi>Charles Lee</hi> was Condemned for Felony upon one <hi>Thomas Trot</hi> in the King's Highway. He ſaid that he was born in <hi>Cheshire,</hi> that he was 19 years of age, that his Employment was to Fell Cloth in the Country as a Pedlar. He came to <hi>London</hi> laſt Winter, but find<g ref="char:EOLhyphen"/>ing no Employment here, he fell into bad Acquaintance, and ſaith he was Fudled when he Robbed. I told him that was no Excuſe, but an Aggravation, becauſe he ad<g ref="char:EOLhyphen"/>ded Sin to Sin. He reply'd, th the was ſorry for taking any extravagant Courſes. I askt him what Repentance was? He ſaid, it muſt be for the leaſt Sin, as an offence againſt God, rather than for Fear of Hell. That it muſt be ſuch a Sorrow for Sin, as to hate and forſake it, and to loath himſelf for it; and that true Faith is joined with a good Conſcience. I hope he was penitent.</item>
+                     <item>The Fifth, <hi>Edward Sibley</hi> of <hi>Stepney</hi> was Condemned for Felony and Burglary. He ſaid that he was a Burcher in St. <hi>Sepulchre</hi>'s Pariſh, that he had travelled formerly into <hi>Barbadoes Jamu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</hi> and <hi>Virginia,</hi> his Employment lately was in the Victualling Houſe <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the Navy He <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d that he had received many Preſervations <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> God in his Travels, and did reſolve thereupon to walk more cir<g ref="char:EOLhyphen"/>cumſpectly in the courſe of his Life. But he ſtroke his Vows to God, and was negligent of Religious Duties, whereupon he com<g ref="char:EOLhyphen"/>mitted many Sins, and this Crime, for which he is Condemned. But he begs of God to give him true Repentance, and Faith in Jeſus Chriſt, that he may obtain the pardon of all his Sins, and that of his Life may be ſpared, he hopes he ſhall never ſin in ſuch Ex<g ref="char:EOLhyphen"/>ceſs as formerly.</item>
+                     <item>The Sixth, <hi>William Miller</hi> of <hi>Stepney</hi> Condemned for Felony. He ſaid that he was bred up to Husbandry, that be came to Sr. <hi>Giles's in the Fields</hi> a little before <hi>Chriſtmas</hi> to ſeek Employment, but meeting not with any agreeable to that he had been uſed to he ſerved under a Plaiſterer for the ſpace of two Months ſince That he is ſorry for all his Sins againſt God, more than for the Sentence of Death paſt upon him. That it will not be terrible to him, if he may obtain God's Pardon, and have a comfortable hope of Eternal Life. He ſeemed very Penitent.</item>
+                  </list>
+                  <p>The reſt of the Condemned were not willing to give any Ac<g ref="char:EOLhyphen"/>count of the Courſe of their Life, therefore here I muſt conclude my Report of this Seſſion.</p>
+                  <closer>
+                     <dateline>Dated <date>the 30th of <hi>May</hi> 1689.</date>
+                     </dateline>
+                     <signed>
+                        <hi>Samuel Smith</hi> Ordinary</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>On <hi>Friday</hi> Morning about Ten a Clock, the Nine Priſoners Condemned were put into three Carts, and Conveyed to the Execution.</p>
+                  <p>But by the way take Notice of this Remark:</p>
+                  <p>On <hi>Thurſday</hi> Night about the Hour of One, theſe Nine and Cap. <hi>VValſing<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> (who was Condemned for Murther) being in the Con<g ref="char:EOLhyphen"/>demned Hole, a Deſign or Attempt to break the Goal was offer<g ref="char:EOLhyphen"/>ed in Diſpute amongſt them, unto which the Capt. and <hi>Jacob Tur<g ref="char:EOLhyphen"/>ner</hi> would not conſent, upon which the other Eight bound them Hand and Foot, threatning them with Death if they cryed out, after which the other Eight fell to Wo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k upon the Boards reach<g ref="char:EOLhyphen"/>ing up about the number of three, and ſliding down into a bolt, beneath, by the help of a Rope faſtned to a King near the broken place all which Contrivance is ſuppoſed to be a betted by ſome of the Priſoners Familiars. After they were beneath the Con<g ref="char:EOLhyphen"/>demned Hole, they made further Attempts and deviſed to <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d out the Common Shoar or at leaſt to break out next the Paſſage in the Gate-way, ſinging of <hi>Pſalms</hi> all the while they were at work, pleaſing themſelves with the Conceit of being upon their Duty, towards God, as they were Condemned, <hi>&amp;c.</hi> But God Almighty the Searcher of all Hearts found them out. Thus, the Priſoners on the Common ſide hearing a Noiſe awaken'd the Keepers in the Lodge, and the Major being call'd for, ſhot a Blunder b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſs at them below, Charged with Peaſe, which did no Execution, only a fright<g ref="char:EOLhyphen"/>ed them, and in ſhort made them yield, <hi>&amp;c.</hi>
+                  </p>
+                  <p>When they were all in the Cart, the Ordinary exhorted them all to true Repentance for all their Sins, and prayed with them, ſing<g ref="char:EOLhyphen"/>ing a <hi>Pſalm,</hi> &amp;c. after which he asked them to confeſs to the Peo<g ref="char:EOLhyphen"/>ple the occaſion of their coming thither. At which they ſeemed to give but a kind of a general ſlight Anſwer. Thoſe of them moſt concern'd, were <hi>Thomas Watkins, VVilliam Bird,</hi> and <hi>Richard Bullen.</hi> The other were little concern'd, eſpecially <hi>Charles Lee,</hi> who was Condemn'd for Robbing on the High-way. As ſoon as he came into the Carr, he ſeemed to be very reſolute, and look with a very angry Countenance, taking a handful of Mony out of his Pocket, threw it out of the Cart amongſt the Spectates, ſaying <hi>Gentlemen here is poor Countrey</hi> Jack's <hi>Farewell.</hi> But after he demon<g ref="char:EOLhyphen"/>ſtrated himſelf further ſaying, <hi>I have followed the Road theſe ſeuen Years and more and have got Money enough to maintain me as long as I need to live. The late King bad.</hi> 1500 <hi>l. of my Gettings,</hi> &amp;c. He ſaid further, <hi>That he never committed Murder, nor never Robbed any poor Man in his Life.</hi> Upon his turning off, he gave two extraordinary Jerques with his Legs, which was much admired by all the Spectators.</p>
+                  <closer>
+                     <dateline>Licens'd <date>
+                           <hi>May</hi> 31.</date>
+                     </dateline>
+                     <signed>J. Fraſer.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <head>Advertiſement.</head>
+            <p>☞ Theſe are to give Notice to all Perſons, for the Benefit of the Publick, That Mr. <hi>Elmy</hi> Operator, of known in<g ref="char:EOLhyphen"/>tegrity, and above <hi>25</hi> Years Practice, Liveth at the <hi>Blue Ball</hi> in <hi>VVhale-Bone-Court,</hi> at the Lower End of <hi>Bar<g ref="char:EOLhyphen"/>tholomew lane</hi> by the <hi>Royal Exchange,</hi> who moſt ſafe<g ref="char:EOLhyphen"/>ly and expeditiouſly Cures <hi>Deafneſs</hi> and <hi>Noiſe in the Ears</hi> in any of what Age ſoever, (if Curable) and at Firſt Sight, by Inſpection, Reſolves the Patient if ſo or not, as moſt Eminent Perſons of Quality in this City can Teſtifie. He hath likewiſe a moſt excellent Garga<g ref="char:EOLhyphen"/>riſm or Mouth water, which cures any Canker, <g ref="char:V">Ʋ</g>lcer, or Scurvy in the Mouth, faſtning looſe Teeth, and making black ones as while as Ivory.</p>
+         </div>
+         <div type="colophon">
+            <p>London, <hi>Printed by</hi> D. M. <hi>near</hi> Fleetbrdge. <hi>1689.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
